@@ -10,6 +10,17 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 * 实现**同步/异步日志系统**，记录服务器运行状态
 * 经Webbench压力测试可以实现**上万的并发连接**数据交换
 
+
+写在前面
+----
+* 本项目开发维护过程中，很多童鞋曾发红包支持，我都一一谢绝。我现在不会，将来也不会将本项目包装成任何课程售卖，更不会开通任何支持通道。
+* 目前网络上有人或对本项目，或对游双大佬的项目包装成课程售卖。请各位童鞋擦亮眼，辨识各大学习/求职网站的C++服务器项目，不要盲目付费。
+* 有面试官大佬通过项目信息在公司内找到我，发现很多童鞋简历上都用了这个项目。但，在面试过程中发现`很多童鞋通过本项目入门了，但是对于一些东西还是属于知其然不知其所以然的状态，需要加强下基础知识的学习`，推荐认真阅读下
+    * 《unix环境高级编程》
+    * 《unix网络编程》
+* 感谢各位大佬，各位朋友，各位童鞋的认可和支持。如果本项目能带你入门，将是我莫大的荣幸。
+
+
 目录
 -----
 
@@ -44,7 +55,7 @@ Demo演示
 
 > * 登录演示
 
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0izcc0r1g30m80bxn6a.gif" height="429"/> </div>
+<div align=center><img src="https://github.com/qinguoyi/TinyWebServer/blob/master/root/login.gif" height="429"/> </div>
 
 > * 请求图片文件演示(6M)
 
@@ -237,12 +248,17 @@ Demo演示
 * [最新版Web服务器项目详解 - 13 踩坑与面试题](https://mp.weixin.qq.com/s?__biz=MzAxNzU2MzcwMw==&mid=2649274431&idx=1&sn=2dd28c92f5d9704a57c001a3d2630b69&chksm=83ffb167b48838715810b27b8f8b9a576023ee5c08a8e5d91df5baf396732de51268d1bf2a4e&token=1686112912&lang=zh_CN#rd)
 * 已更新完毕
 
+Star History
+---------
+[![Star History Chart](https://api.star-history.com/svg?repos=qinguoyi/TinyWebServer&type=Date)](https://star-history.com/#qinguoyi/TinyWebServer&Date)
+
 CPP11实现
 ------------
 更简洁，更优雅的CPP11实现：[Webserver](https://github.com/markparticle/WebServer)
+
 
 致谢
 ------------
 Linux高性能服务器编程，游双著.
 
-感谢以下朋友的PR和帮助: [@RownH](https://github.com/RownH)，[@mapleFU](https://github.com/mapleFU)，[@ZWiley](https://github.com/ZWiley)，[@zjuHong](https://github.com/zjuHong)，[@mamil](https://github.com/mamil)，[@byfate](https://github.com/byfate)，[@MaJun827](https://github.com/MaJun827)，[@BBLiu-coder](https://github.com/BBLiu-coder)，[@smoky96](https://github.com/smoky96)，[@yfBong](https://github.com/yfBong)，[@liuwuyao](https://github.com/liuwuyao)，[@Huixxi](https://github.com/Huixxi)，[@markparticle](https://github.com/markparticle).
+感谢以下朋友的PR和帮助: [@RownH](https://github.com/RownH)，[@mapleFU](https://github.com/mapleFU)，[@ZWiley](https://github.com/ZWiley)，[@zjuHong](https://github.com/zjuHong)，[@mamil](https://github.com/mamil)，[@byfate](https://github.com/byfate)，[@MaJun827](https://github.com/MaJun827)，[@BBLiu-coder](https://github.com/BBLiu-coder)，[@smoky96](https://github.com/smoky96)，[@yfBong](https://github.com/yfBong)，[@liuwuyao](https://github.com/liuwuyao)，[@Huixxi](https://github.com/Huixxi)，[@markparticle](https://github.com/markparticle)，[@blogg9ggg](https://github.com/Blogg9ggg).
